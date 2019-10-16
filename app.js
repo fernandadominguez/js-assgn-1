@@ -66,7 +66,6 @@ for (let i = 0; i < data.length; i++) {
     cardTitle.className = 'title'
     newCard.appendChild(cardTitle)
 
-
     const cardBuyButton = document.createElement('button')
     cardBuyButton.textContent = "Read for " + data[i].price
     cardBuyButton.style.color = data[i].color
