@@ -1,1 +1,2 @@
-# js-assgn-1
+# JavaScript Assignment 1
+### Adding Tiles
